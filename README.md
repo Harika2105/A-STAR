@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name:       </h3>
-<h3>Register Number:           </h3>
+<h3>Name:  S.Harika  </h3>
+<h3>Register Number: 212224240155         </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -86,6 +86,8 @@ I 1 <br>
 J 0 <br>
 <hr>
 <h2>Sample Output</h2>
+<img width="704" height="356" alt="Screenshot 2026-08-21 102722" src="https://github.com/user-attachments/assets/746c5457-41ba-41d0-b650-8e877056f327" />
+
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
@@ -115,5 +117,11 @@ D 1 <br>
 G 0 <br>
 <hr>
 <h2>Sample Output</h2>
+<img width="675" height="251" alt="Screenshot 2026-08-21 102728" src="https://github.com/user-attachments/assets/a3a4c349-004d-44d1-91ae-b1ac40401653" />
+
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+## Result:
+A-Star algorithm is successfully implemented.
+
